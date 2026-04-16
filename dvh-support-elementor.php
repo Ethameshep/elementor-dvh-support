@@ -2,7 +2,7 @@
 /**
  * Plugin Name: DVH Support for Elementor
  * Description: Automatically adds dvh unit support to Elementor 'vh' controls with a standard 'vh' fallback.
- * Version: 1.1
+ * Version: 1.0
  * Author: Ethan Sheppard
  * License: GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
